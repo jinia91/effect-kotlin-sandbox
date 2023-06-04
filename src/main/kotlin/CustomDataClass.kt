@@ -21,4 +21,3 @@ fun main() {
     println(valMutableList)
     println(varlist)
 }
-
