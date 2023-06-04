@@ -1,5 +1,6 @@
 plugins {
     kotlin("jvm") version "1.8.0"
+    java
 }
 
 group = "org.example"
@@ -10,6 +11,7 @@ repositories {
 }
 
 dependencies {
+    implementation(kotlin("stdlib-jdk8"))
     testImplementation(kotlin("test"))
 }
 
