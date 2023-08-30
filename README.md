@@ -12,6 +12,10 @@
 7. [Item 09. Use() 를 사용해 리소스를 닫아라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item09.ipynb)
 8. [Item 10. 단위 테스트를 만들어라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item10.ipynb)
 8. [Item 11. 가독성을 목표로 설계하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item11.ipynb)
+8. [Item 12. 연산자 오버로드를 할 때는 의미에 맞게 사용하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item12.ipynb)
+8. [Item 13. Unit?을 리턴하지 말라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item13.ipynb)
+8. [Item 14. 변수타입이 명확하지 않은경우 확실하게 지정하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item14.ipynb)
+8. [Item 15. 리시버를 명시적으로 참조해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item15.ipynb)
 
 
 
