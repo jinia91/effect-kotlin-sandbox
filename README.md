@@ -16,6 +16,7 @@
 8. [Item 13. Unit?을 리턴하지 말라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item13.ipynb)
 8. [Item 14. 변수타입이 명확하지 않은경우 확실하게 지정하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item14.ipynb)
 8. [Item 15. 리시버를 명시적으로 참조해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item15.ipynb)
+8. [Item 16. 프로퍼티는 동작이 아니라 상태를 나타내야한다](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item16.ipynb)
 
 
 
