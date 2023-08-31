@@ -19,6 +19,7 @@
 8. [Item 16. 프로퍼티는 동작이 아니라 상태를 나타내야한다](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item16.ipynb)
 8. [Item 17. 네임드 아규먼트를 사용해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item17.ipynb)
 8. [Item 18. 코딩컨벤션을 지켜라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item18.ipynb)
+8. [Item 19. knowledge 를 반복하여 사용하지 말라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item19.ipynb)
 
 
 
