@@ -22,7 +22,9 @@
 8. [Item 19. knowledge 를 반복하여 사용하지 말라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item19.ipynb)
 8. [Item 20. 일반적인 알고리즘을 반복해서 구현하지 말라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item20.ipynb)
 8. [Item 21. 일반적인 프로퍼티 패턴은 프로퍼티 위임으로 만들어라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item21.ipynb)
-8. [Item 22. 일반적인 알고리즘을 구현할 때, 제네릭을 사용해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item22.ipynb)
+8. [Item 22. 일반적인 알고리즘을 구현할 때, 제네릭을 사용해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item22_24.ipynb)
+8. [Item 23. 타입파라미터의 섀도잉을 피하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item23.ipynb)
+8. [Item 24. 제네릭타입과 variance 한정자를 활용하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item22_24.ipynb)
 
 
 
