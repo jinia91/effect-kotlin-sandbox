@@ -26,6 +26,7 @@
 8. [Item 23. 타입파라미터의 섀도잉을 피하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item23.ipynb)
 8. [Item 24. 제네릭타입과 variance 한정자를 활용하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item22_24.ipynb)
 8. [Item 25. 공통모듈을 추출해서 여러 플랫폼에서 재사용해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item25.ipynb)
+8. [Item 26. 함수 내부의 추상화 레벨을 통일하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item26.ipynb)
 
 
 
