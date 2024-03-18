@@ -31,6 +31,8 @@
 8. [Item 28. API 안정성을 확인해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item28.ipynb)
 8. [Item 29. 외부 API를 래핑해서 사용하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item29.ipynb)
 8. [Item 30. 요소의 가시성을 최소화해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item30.ipynb)
+8. [Item 31. 문서를 규약으로 정의해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item31.ipynb)
+8. [Item 32. 추상화 규약을 지켜라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item32.ipynb)
 
 
 
