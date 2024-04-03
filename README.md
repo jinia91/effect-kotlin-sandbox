@@ -36,6 +36,7 @@
 8. [Item 33. 생성자 대신 팩토리 함수를 사용하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item33.ipynb)
 8. [Item 34. 기본 생성자에 이름있는 옵션 아규먼트를 사용하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item34.ipynb)
 8. [Item 35. 복잡한 객체를 생성하기 위한 DSL을 정의해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item35.ipynb)
+8. [Item 36. 상속보다는 컴포지션을 사용하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item36.ipynb)
 
 
 
