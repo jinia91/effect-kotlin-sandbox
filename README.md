@@ -38,6 +38,7 @@
 8. [Item 35. 복잡한 객체를 생성하기 위한 DSL을 정의해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item35.ipynb)
 8. [Item 36. 상속보다는 컴포지션을 사용하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item36.ipynb)
 8. [Item 37. 데이터 집합 표현에 data 한정자를 사용하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item37.ipynb)
+8. [Item 38. 연산 또는 액션을 전달할 때는 인터페이스 대신 함수 타입을 사용해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item38.ipynb)
 
 
 
