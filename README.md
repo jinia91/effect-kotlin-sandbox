@@ -39,6 +39,7 @@
 8. [Item 36. 상속보다는 컴포지션을 사용하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item36.ipynb)
 8. [Item 37. 데이터 집합 표현에 data 한정자를 사용하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item37.ipynb)
 8. [Item 38. 연산 또는 액션을 전달할 때는 인터페이스 대신 함수 타입을 사용해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item38.ipynb)
+8. [Item 39. 태그 클래스보다는 클래스 계층을 사용해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item39.ipynb)
 
 
 
