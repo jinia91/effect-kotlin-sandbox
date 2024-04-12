@@ -41,6 +41,7 @@
 8. [Item 38. 연산 또는 액션을 전달할 때는 인터페이스 대신 함수 타입을 사용해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item38.ipynb)
 8. [Item 39. 태그 클래스보다는 클래스 계층을 사용해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item39.ipynb)
 8. [Item 40. equals의 규약을 지켜라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item40.ipynb)
+8. [Item 41. hascode의 규약을 지켜라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item41.ipynb)
 
 
 
