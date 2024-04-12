@@ -43,6 +43,7 @@
 8. [Item 40. equals의 규약을 지켜라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item40.ipynb)
 8. [Item 41. hascode의 규약을 지켜라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item41.ipynb)
 8. [Item 42. compareTo의 규약을 지켜라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item42.ipynb)
+8. [Item 43. API의 필수적이지 않는 부분을 확장함수로 추출하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item43.ipynb)
 
 
 
