@@ -13,6 +13,7 @@ repositories {
 dependencies {
     implementation(kotlin("stdlib-jdk8"))
     testImplementation(kotlin("test"))
+    implementation("org.openjdk.jol:jol-core:0.10")
 }
 
 tasks.test {
