@@ -46,6 +46,7 @@
 8. [Item 43. API의 필수적이지 않는 부분을 확장함수로 추출하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item43.ipynb)
 8. [Item 44. 멤버 확장 함수를 사용을 피하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item44.ipynb)
 8. [Item 45. 불필요한 객체생성을 피하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item45.ipynb)
+8. [Item 46. 함수 타입 파라미터를 갖는 함수에 inline 한정자를 붙여라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item46.ipynb)
 
 
 
