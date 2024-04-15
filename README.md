@@ -48,6 +48,7 @@
 8. [Item 45. 불필요한 객체생성을 피하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item45.ipynb)
 8. [Item 46. 함수 타입 파라미터를 갖는 함수에 inline 한정자를 붙여라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item46.ipynb)
 8. [Item 47. 인라인 클래스의 사용을 고려하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item47.ipynb)
+8. [Item 48. 더 이상 사용하지 않는 객체의 레퍼런스를 제거하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item48.ipynb)
 
 
 
