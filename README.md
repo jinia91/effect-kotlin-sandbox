@@ -50,6 +50,8 @@
 8. [Item 47. 인라인 클래스의 사용을 고려하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item47.ipynb)
 8. [Item 48. 더 이상 사용하지 않는 객체의 레퍼런스를 제거하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item48.ipynb)
 8. [Item 49. 하나 이상의 처리 단계를 가진 경우에는 시퀸스를 사용하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item49.ipynb)
+8. [Item 50. 컬렉션 처리수를 제한하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item50.ipynb)
+8. [Item 51. 성능이 중요한 부분에는 기본 자료형 배열을 사용하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item51.ipynb)
 
 
 
