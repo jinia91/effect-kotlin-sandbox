@@ -17,7 +17,38 @@ val sPrimes2 = sequence {
     }
 }
 
-fun main() = println(sPrimes2.take(10).toList())
+
+data class Client(
+    val adult : Boolean,
+    val product : List<Product>
+)
+data class Product(
+    val name : String,
+    val price : Long
+)
+
+private val clientList: List<Client> =
+    (1..10000).map {
+        Client(
+            adult = true,
+            product = (1..100).map { Product("product$it", it.toLong()) }
+        )
+    }
+
+
+fun sequenceProcessing() {
+    val list = clientList
+        .asSequence()
+        .filter { it.adult }
+        .flatMap { it.product.asSequence() }
+        .mapNotNull { it.price }
+        .map{"$$it"}
+        .joinToString { " + " }
+}
+
+fun main() {
+    sequenceProcessing()
+}
 
 //
 //val sPrimes = sequence {
