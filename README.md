@@ -52,6 +52,7 @@
 8. [Item 49. 하나 이상의 처리 단계를 가진 경우에는 시퀸스를 사용하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item49.ipynb)
 8. [Item 50. 컬렉션 처리수를 제한하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item50.ipynb)
 8. [Item 51. 성능이 중요한 부분에는 기본 자료형 배열을 사용하라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item51.ipynb)
+8. [Item 52. mutable 컬렉션 사용을 고려해라](https://github.com/jinia91/effect-kotlin-sandbox/blob/master/effective_kotlin_notebook/Item52.ipynb)
 
 
 
